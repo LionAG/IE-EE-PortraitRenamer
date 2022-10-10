@@ -3,7 +3,7 @@ A simple command line portrait renaming tool. Batch renames bitmap files to fit 
 
 ### Versions
 
-This program requires the .NET runtime software. If you don't want to install it download the **self contained** release (SC).
+This program requires .NET runtime. If you don't want to install it download the **self contained** release (SC).
 
 ### How to use:
 
