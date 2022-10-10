@@ -1,5 +1,5 @@
 # Portrait Renamer
-A simple command line portrait renaming tool. Batch renames bitmap files to fit the format required by the game engine.
+A simple command line portrait renaming tool. Batch renames bitmap files to fit the format required by the engine.
 
 ### How to use:
 
