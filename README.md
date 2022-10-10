@@ -15,8 +15,6 @@ This program requires .NET runtime. If you don't want to install it download the
 
 Using no prefix will result in raw numeric names. It is optional, for example when renaming male fighter portraits passing MFTR as a prefix will result in the following names:
 
-If any file eg. `MFTR11.bmp` already exists an exception will be thrown. In this case run the program with the `--random-rename` switch first.
-
 ```
 MFTR1.bmp
 MFTR2.bmp
@@ -31,3 +29,5 @@ MFTR14.bmp
 MFTR15.bmp
 ...
 ```
+
+If any file eg. `MFTR11.bmp` already exists an exception will be thrown. In this case run the program with the `--random-rename` switch first.
